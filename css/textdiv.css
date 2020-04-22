@@ -66,8 +66,8 @@ display:inline-block;
 }
 
 .button1:hover {
-  background-color: #4CAF50;
-  color: white;
+  background-color: #fff;
+  color: black;
 }
 
 .button2 {
