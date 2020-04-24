@@ -60,9 +60,10 @@
     flex-direction: column;
   }
   .card{
-    width: 50%;
+    width: 65%;
     max-width: 300px;
     margin: 10px 0;
+    margin-right: 5%;
   }
 }
 
